@@ -1,0 +1,16 @@
+﻿Luat,support,confidence,lift,Role_Group
+oracle + power_bi + sql  =>  tableau,0.07,1.0,7.6,Data/Business Analyst
+machine_learning + sql  =>  power_bi + python,0.079,1.0,4.957,Data/Business Analyst
+tableau  =>  oracle,0.079,0.6,4.275,Data/Business Analyst
+machine_learning + sql  =>  python,0.079,1.0,3.0,Data/Business Analyst
+machine_learning + power_bi  =>  python,0.088,1.0,3.0,Data/Business Analyst
+docker + go + machine_learning  =>  java + postgresql,0.061,1.0,16.4,Data Scientist/AI
+git + kubernetes + postgresql  =>  java + machine_learning,0.061,1.0,16.4,Data Scientist/AI
+git + kubernetes + postgresql + python  =>  java + machine_learning,0.061,1.0,16.4,Data Scientist/AI
+docker + git + kubernetes + postgresql  =>  java + machine_learning,0.061,1.0,16.4,Data Scientist/AI
+docker + git + kubernetes + postgresql + python  =>  java + machine_learning,0.061,1.0,16.4,Data Scientist/AI
+redis  =>  kafka,0.062,0.657,6.79,Khác (Dev/IT khác)
+kubernetes + sql  =>  docker,0.062,0.92,5.52,Khác (Dev/IT khác)
+aws  =>  azure,0.089,0.688,5.115,Khác (Dev/IT khác)
+kubernetes + postgresql  =>  docker,0.067,0.806,4.839,Khác (Dev/IT khác)
+kubernetes  =>  docker,0.102,0.745,4.471,Khác (Dev/IT khác)
