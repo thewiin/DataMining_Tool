@@ -14,13 +14,6 @@ __pycache__/
 .env.*
 !.env.example
 
-# Logs
-logs/
-*.log
-
-# Data files (avoid uploading datasets)
-data/
-
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 

@@ -1,0 +1,4 @@
+﻿Cluster,Job_Count,Percent (%),Exp_Valid_n,Exp_Mean_Years,Top_Skills
+0,131,21.76,123,2.41,"docker (61%), python (60%), sql (59%), postgresql (56%), kubernetes (47%), git (44%)"
+1,442,73.42,408,2.61,"sql (52%), python (40%), excel (25%), power_bi (20%), machine_learning (18%), oracle (10%)"
+2,29,4.82,22,2.19,"python (93%), machine_learning (90%), pytorch (90%), tensorflow (86%), computer_vision (59%), nlp (55%)"

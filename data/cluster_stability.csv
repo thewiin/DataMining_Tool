@@ -1,0 +1,4 @@
+﻿Biến thể,Silhouette,Davies-Bouldin,ARI so với cụm chính,Kích thước cụm
+"Chính (scale, +Experience)",0.255,2.5249,1.0,"[442, 131, 29]"
+"Chỉ kỹ năng, không scale",0.1216,2.651,0.3483,"[272, 223, 107]"
+SVD(10) trên kỹ năng,0.1687,1.9281,0.306,"[259, 228, 115]"

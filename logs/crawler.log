@@ -1,0 +1,213 @@
+2026-11-12 11:40:39,340 [INFO] [MultiSourceCrawler] ============================================================
+2026-11-12 11:40:39,341 [INFO] [MultiSourceCrawler] KHỞI ĐỘNG CRAWLER ĐA NGUỒN: TOPCV - JOBOKO - GLINTS
+2026-11-12 11:40:39,341 [INFO] [MultiSourceCrawler] Các nguồn kích hoạt: ['topcv', 'joboko', 'glints']
+2026-11-12 11:40:39,342 [INFO] [MultiSourceCrawler] Số lượng từ khóa: 1 | Max pages/từ khóa: 1
+2026-11-12 11:40:39,342 [INFO] [MultiSourceCrawler] Chỉ tiêu dữ liệu: 6 tin | File đầu ra: D:\IT SUBJECTS\KHAI PHA DU LIEU\DataMining_Tool\data\raw_data.csv
+2026-11-12 11:40:39,342 [INFO] [MultiSourceCrawler] ============================================================
+2026-11-12 11:40:39,343 [INFO] [MultiSourceCrawler] 
+>>>> BẮT ĐẦU THU THẬP NGUỒN: [TopCV] <<<<
+2026-11-12 11:40:39,343 [INFO] [MultiSourceCrawler] 
+--- [TopCV] Từ khóa: 'Data Analyst' ---
+2026-11-12 11:40:39,343 [INFO] [MultiSourceCrawler] [TopCV] Trang 1/1 -> https://www.topcv.vn/tim-viec-lam?keyword=Data%20Analyst&page=1
+2026-11-12 11:40:39,641 [WARNING] [MultiSourceCrawler] HTTP 403 tại https://www.topcv.vn/tim-viec-lam?keyword=Data%20Analyst&page=1
+2026-11-12 11:40:39,641 [WARNING] [MultiSourceCrawler] Không thể tải trang tìm kiếm của TopCV. Bỏ qua trang 1.
+2026-11-12 11:40:39,642 [INFO] [MultiSourceCrawler] 
+>>>> BẮT ĐẦU THU THẬP NGUỒN: [Joboko] <<<<
+2026-11-12 11:40:39,642 [INFO] [MultiSourceCrawler] 
+--- [Joboko] Từ khóa: 'Data Analyst' ---
+2026-11-12 11:40:39,642 [INFO] [MultiSourceCrawler] [Joboko] Trang 1/1 -> https://vn.joboko.com/viec-lam?q=Data%20Analyst&p=1
+2026-11-12 11:40:39,897 [WARNING] [MultiSourceCrawler] HTTP 404 tại https://vn.joboko.com/viec-lam?q=Data%20Analyst&p=1
+2026-11-12 11:40:39,898 [WARNING] [MultiSourceCrawler] Không thể tải trang tìm kiếm của Joboko. Bỏ qua trang 1.
+2026-11-12 11:40:39,898 [INFO] [MultiSourceCrawler] 
+>>>> BẮT ĐẦU THU THẬP NGUỒN: [Glints] <<<<
+2026-11-12 11:40:39,898 [INFO] [MultiSourceCrawler] 
+--- [Glints] Từ khóa: 'Data Analyst' ---
+2026-11-12 11:40:39,898 [INFO] [MultiSourceCrawler] [Glints] Trang 1/1 -> https://glints.com/vn/opportunities/jobs/explore?keyword=Data%20Analyst&country=VN&page=1
+2026-11-12 11:40:40,593 [WARNING] [MultiSourceCrawler] HTTP 403 tại https://glints.com/vn/opportunities/jobs/explore?keyword=Data%20Analyst&country=VN&page=1
+2026-11-12 11:40:40,593 [WARNING] [MultiSourceCrawler] Không thể tải trang tìm kiếm của Glints. Bỏ qua trang 1.
+2026-11-12 11:40:40,594 [INFO] [MultiSourceCrawler] 
+============================================================
+2026-11-12 11:40:40,594 [INFO] [MultiSourceCrawler] HOÀN THÀNH TOÀN BỘ TIẾN TRÌNH THU THẬP ĐA NGUỒN
+2026-11-12 11:40:40,594 [INFO] [MultiSourceCrawler] Tổng số bản ghi duy nhất hiện có: 0
+2026-11-12 11:40:40,594 [INFO] [MultiSourceCrawler] ============================================================
+2026-11-12 11:40:40,594 [ERROR] [MultiSourceCrawler] Chưa tạo được file raw_data.csv!
+2026-11-12 11:57:49,098 [INFO] [MultiSourceCrawler] ============================================================
+2026-11-12 11:57:49,099 [INFO] [MultiSourceCrawler] KHỞI ĐỘNG CRAWLER ĐA NGUỒN: TOPCV - JOBOKO - ITVIEC
+2026-11-12 11:57:49,099 [INFO] [MultiSourceCrawler] Các nguồn kích hoạt: ['topcv', 'joboko', 'itviec']
+2026-11-12 11:57:49,099 [INFO] [MultiSourceCrawler] Số lượng từ khóa: 1 | Max pages/từ khóa: 1
+2026-11-12 11:57:49,099 [INFO] [MultiSourceCrawler] Chỉ tiêu dữ liệu: 6 tin | File đầu ra: D:\IT SUBJECTS\KHAI PHA DU LIEU\DataMining_Tool\data\raw_data.csv
+2026-11-12 11:57:49,099 [INFO] [MultiSourceCrawler] ============================================================
+2026-11-12 11:57:49,100 [INFO] [MultiSourceCrawler] 
+>>>> BẮT ĐẦU THU THẬP NGUỒN: [TopCV] <<<<
+2026-11-12 11:57:49,100 [INFO] [MultiSourceCrawler] 
+--- [TopCV] Từ khóa: 'Data Analyst' ---
+2026-11-12 11:57:49,100 [INFO] [MultiSourceCrawler] [TopCV] Trang 1/1 -> https://www.topcv.vn/tim-viec-lam?keyword=Data%20Analyst&page=1
+2026-11-12 11:57:49,380 [WARNING] [MultiSourceCrawler] HTTP 403 tại https://www.topcv.vn/tim-viec-lam?keyword=Data%20Analyst&page=1
+2026-11-12 11:57:49,380 [WARNING] [MultiSourceCrawler] Không thể tải trang tìm kiếm của TopCV. Bỏ qua trang 1.
+2026-11-12 11:57:49,380 [INFO] [MultiSourceCrawler] 
+>>>> BẮT ĐẦU THU THẬP NGUỒN: [Joboko] <<<<
+2026-11-12 11:57:49,380 [INFO] [MultiSourceCrawler] 
+--- [Joboko] Từ khóa: 'Data Analyst' ---
+2026-11-12 11:57:49,381 [INFO] [MultiSourceCrawler] [Joboko] Trang 1/1 -> https://vn.joboko.com/viec-lam?q=Data%20Analyst&p=1
+2026-11-12 11:57:49,666 [WARNING] [MultiSourceCrawler] HTTP 404 tại https://vn.joboko.com/viec-lam?q=Data%20Analyst&p=1
+2026-11-12 11:57:49,667 [WARNING] [MultiSourceCrawler] Không thể tải trang tìm kiếm của Joboko. Bỏ qua trang 1.
+2026-11-12 11:57:49,667 [INFO] [MultiSourceCrawler] 
+>>>> BẮT ĐẦU THU THẬP NGUỒN: [ITviec] <<<<
+2026-11-12 11:57:49,667 [INFO] [MultiSourceCrawler] 
+--- [ITviec] Từ khóa: 'Data Analyst' ---
+2026-11-12 11:57:49,667 [INFO] [MultiSourceCrawler] [ITviec] Trang 1/1 -> https://itviec.com/it-jobs?query=Data%20Analyst&page=1
+2026-11-12 11:57:53,289 [INFO] [MultiSourceCrawler] [ITviec] Không có thêm tin tại trang 1. Đổi từ khóa.
+2026-11-12 11:57:53,289 [INFO] [MultiSourceCrawler] 
+============================================================
+2026-11-12 11:57:53,290 [INFO] [MultiSourceCrawler] HOÀN THÀNH TOÀN BỘ TIẾN TRÌNH THU THẬP ĐA NGUỒN
+2026-11-12 11:57:53,290 [INFO] [MultiSourceCrawler] Tổng số bản ghi duy nhất hiện có: 0
+2026-11-12 11:57:53,290 [INFO] [MultiSourceCrawler] ============================================================
+2026-11-12 11:57:53,290 [ERROR] [MultiSourceCrawler] Chưa tạo được file raw_data.csv!
+2026-11-12 12:13:15,370 [INFO] [TEST MODE] Chạy thử 9 tin (3 nguồn x 3 tin mỗi nguồn)
+2026-11-12 12:13:15,371 [INFO] ============================================================
+2026-11-12 12:13:15,371 [INFO] CRAWLER STEALTH MODE: TOPCV - JOBOKO - ITVIEC
+2026-11-12 12:13:15,371 [INFO] Nguồn: ['topcv', 'joboko', 'itviec'] | Từ khóa: 1 | Mục tiêu: 9 tin
+2026-11-12 12:13:15,371 [INFO] Headless: False | Delay: 2.0–4.0s
+2026-11-12 12:13:15,371 [INFO] ============================================================
+2026-11-12 12:13:15,371 [INFO] Đang khởi động Stealth Chrome Browser...
+2026-11-12 12:13:19,437 [INFO] patching driver executable C:\Users\Admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-11-12 12:13:27,151 [ERROR] Không thể khởi động Chrome: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0xabbce3]
+	(No symbol) [0x9c04c4]
+	(No symbol) [0x7bc670]
+	(No symbol) [0x7e5f6d]
+	(No symbol) [0x7e7910]
+	(No symbol) [0x7e24bd]
+	(No symbol) [0x836723]
+	(No symbol) [0x8361f5]
+	(No symbol) [0x8379fe]
+	(No symbol) [0x837807]
+	(No symbol) [0x82a806]
+	(No symbol) [0x7fcb6a]
+	(No symbol) [0x7fd9f4]
+	(No symbol) [0xf93c34]
+	(No symbol) [0xfae78b]
+	(No symbol) [0xc19a42]
+	(No symbol) [0xc21fe3]
+	(No symbol) [0x9cf198]
+	(No symbol) [0x9c9d08]
+	(No symbol) [0x9c9eb5]
+	(No symbol) [0x9b5b67]
+	(No symbol) [0x763c5d49]
+	(No symbol) [0x7719c88b]
+	(No symbol) [0x7719c811]
+
+2026-11-12 12:13:27,165 [ERROR] Lỗi nghiêm trọng nguồn TopCV: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0xabbce3]
+	(No symbol) [0x9c04c4]
+	(No symbol) [0x7bc670]
+	(No symbol) [0x7e5f6d]
+	(No symbol) [0x7e7910]
+	(No symbol) [0x7e24bd]
+	(No symbol) [0x836723]
+	(No symbol) [0x8361f5]
+	(No symbol) [0x8379fe]
+	(No symbol) [0x837807]
+	(No symbol) [0x82a806]
+	(No symbol) [0x7fcb6a]
+	(No symbol) [0x7fd9f4]
+	(No symbol) [0xf93c34]
+	(No symbol) [0xfae78b]
+	(No symbol) [0xc19a42]
+	(No symbol) [0xc21fe3]
+	(No symbol) [0x9cf198]
+	(No symbol) [0x9c9d08]
+	(No symbol) [0x9c9eb5]
+	(No symbol) [0x9b5b67]
+	(No symbol) [0x763c5d49]
+	(No symbol) [0x7719c88b]
+	(No symbol) [0x7719c811]
+
+Traceback (most recent call last):
+  File "D:\IT SUBJECTS\KHAI PHA DU LIEU\DataMining_Tool\crawler\scraper.py", line 606, in run
+    browser.start()
+    ~~~~~~~~~~~~~^^
+  File "D:\IT SUBJECTS\KHAI PHA DU LIEU\DataMining_Tool\crawler\scraper.py", line 124, in start
+    self.driver = uc.Chrome(options=opts, use_subprocess=True)
+                  ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Roaming\Python\Python313\site-packages\undetected_chromedriver\__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        service=service,
+        ^^^^^^^^^^^^^^^^
+        options=options,
+        ^^^^^^^^^^^^^^^^
+        keep_alive=keep_alive,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Admin\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        browser_name=DesiredCapabilities.CHROME["browserName"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        keep_alive=keep_alive,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Admin\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=self.options)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\common\webdriver.py", line 25, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 356, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Roaming\Python\Python313\site-packages\undetected_chromedriver\__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        capabilities
+        ^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Admin\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 461, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 566, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 234, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: cannot parse capability: goog:chromeOptions
+from invalid argument: unrecognized chrome option: excludeSwitches
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0xabbce3]
+	(No symbol) [0x9c04c4]
+	(No symbol) [0x7bc670]
+	(No symbol) [0x7e5f6d]
+	(No symbol) [0x7e7910]
+	(No symbol) [0x7e24bd]
+	(No symbol) [0x836723]
+	(No symbol) [0x8361f5]
+	(No symbol) [0x8379fe]
+	(No symbol) [0x837807]
+	(No symbol) [0x82a806]
+	(No symbol) [0x7fcb6a]
+	(No symbol) [0x7fd9f4]
+	(No symbol) [0xf93c34]
+	(No symbol) [0xfae78b]
+	(No symbol) [0xc19a42]
+	(No symbol) [0xc21fe3]
+	(No symbol) [0x9cf198]
+	(No symbol) [0x9c9d08]
+	(No symbol) [0x9c9eb5]
+	(No symbol) [0x9b5b67]
+	(No symbol) [0x763c5d49]
+	(No symbol) [0x7719c88b]
+	(No symbol) [0x7719c811]
+
+
