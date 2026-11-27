@@ -19,7 +19,7 @@ Khuyến nghị sử dụng **Python 3.10+**.
 ```powershell
 pip install -r crawler/requirements.txt
 ```
-*(Bao gồm: `requests`, `beautifulsoup4`, `lxml`, `pandas`, `tqdm`)*
+*(Bao gồm: `requests`, `beautifulsoup4`, `lxml`, `pandas`, `tqdm`, `selenium`, `undetected-chromedriver`)*
 
 ---
 
