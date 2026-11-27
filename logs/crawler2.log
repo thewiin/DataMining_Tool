@@ -1,0 +1,400 @@
+2026-11-24 17:40:14,240 INFO Đã có 0 bản ghi trong data\test_raw.csv
+2026-11-24 17:40:14,571 INFO robots.txt cho phép /it-jobs/: True | sitemap khai báo: 1
+2026-11-24 17:40:14,572 INFO [power bi] trang 1: https://itviec.com/it-jobs/power-bi?page=1
+2026-11-24 17:40:14,748 ERROR Bị chặn (status=403) tại https://itviec.com/it-jobs/power-bi?page=1 | server=cloudflare cf-mitigated=challenge | đầu trang: '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-e' -> DỪNG. Không vượt rào; hãy đợi, giảm tốc độ hoặc đổi nguồn.
+2026-11-24 17:40:14,749 INFO Hoàn tất lượt chạy: +0 mới, 0 bỏ qua.
+2026-11-24 17:42:26,336 INFO Đã có 889 bản ghi trong D:\WorkSpace\Data_mining\files (1)\data\raw_data.csv
+2026-11-24 17:42:26,490 INFO robots.txt cho phép /it-jobs/: True | sitemap khai báo: 1
+2026-11-24 17:42:26,491 INFO [data analyst] trang 1: https://itviec.com/it-jobs/data-analyst?page=1
+2026-11-24 17:42:26,631 ERROR Bị chặn (status=403) tại https://itviec.com/it-jobs/data-analyst?page=1 | server=cloudflare cf-mitigated=challenge | đầu trang: '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-e' -> DỪNG. Không vượt rào; hãy đợi, giảm tốc độ hoặc đổi nguồn.
+2026-11-24 17:42:26,632 INFO Hoàn tất lượt chạy: +0 mới, 0 bỏ qua.
+2026-11-24 17:42:26,664 INFO === THỐNG KÊ raw_data.csv: 889 dòng, 889 URL duy nhất
+2026-11-24 17:42:26,665 INFO     Tỷ lệ có dữ liệu: Job_Title 100% | Company 100% | Location 100% | Salary 100% | Experience 95% | Description 100% | Requirements 98% | Benefits 96%
+2026-11-24 17:43:49,218 INFO Đã có 0 bản ghi trong data\test_raw.csv
+2026-11-24 17:43:49,404 INFO robots.txt cho phép /it-jobs/: True | sitemap khai báo: 1
+2026-11-24 17:43:49,405 INFO [data analyst] trang 1: https://itviec.com/it-jobs/data-analyst?page=1
+2026-11-24 17:43:49,545 ERROR Bị chặn (status=403) tại https://itviec.com/it-jobs/data-analyst?page=1 | server=cloudflare cf-mitigated=challenge | đầu trang: '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-e' -> DỪNG. Không vượt rào; hãy đợi, giảm tốc độ hoặc đổi nguồn.
+2026-11-24 17:43:49,545 INFO Hoàn tất lượt chạy: +0 mới, 0 bỏ qua.
+2026-11-24 17:43:59,225 INFO Đã có 0 bản ghi trong data\test_raw.csv
+2026-11-24 17:43:59,414 INFO robots.txt cho phép /it-jobs/: True | sitemap khai báo: 1
+2026-11-24 17:44:02,094 INFO [data analyst] trang 1: https://itviec.com/it-jobs/data-analyst?page=1
+2026-11-24 17:44:17,481 WARNING Hết thời gian chờ nội dung tải: https://itviec.com/it-jobs/data-analyst?page=1
+2026-11-24 17:44:19,904 ERROR Bị chặn (status=403) tại https://itviec.com/it-jobs/data-analyst?page=1 | server=cloudflare cf-mitigated=challenge | đầu trang: '<!DOCTYPE html><html lang="en-us" dir="ltr"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><m' -> DỪNG. Không vượt rào; hãy đợi, giảm tốc độ hoặc đổi nguồn.
+2026-11-24 17:44:20,662 INFO Hoàn tất lượt chạy: +0 mới, 0 bỏ qua.
+2026-11-24 17:44:39,957 INFO Đã có 0 bản ghi trong data\test_raw.csv
+2026-11-24 17:44:40,019 INFO robots.txt cho phép /viec-lam/: True | sitemap khai báo: 1
+2026-11-24 17:44:40,021 INFO [data engineer] trang 1: https://careerviet.vn/viec-lam/data-engineer-k-vi.html
+2026-11-24 17:44:41,727 INFO Tìm thấy 50 link tin (regex), 50 link mới
+2026-11-24 17:44:45,170 INFO [1] Master Data Engineer - Công Ty TNHH Fine Scandinavia
+2026-11-24 17:44:48,939 INFO [2] Kỹ Sư AI và Dữ Liệu (AI & Data Engineer) - CÔNG TY CỔ PHẦN THỜI TRANG H VÀ A (PANTIO)
+2026-11-24 17:44:51,926 INFO [3] Kỹ sư Dữ liệu - Data Engineer - Khối Dữ liệu (2026TD450985) - Ngân Hàng TMCP Quân Đội
+2026-11-24 17:44:57,469 INFO [4] Chuyên viên Phân tích và thiết kế Mô hình dữ liệu - Data Analyst - Khối Dữ liệu (2026TD450983) - Ngân Hàng TMCP Quân Đội
+2026-11-24 17:45:00,946 INFO [5] Chuyên viên Phân tích và thiết kế Mô hình dữ liệu - Data Analyst - Khối Dữ liệu (2026TD45098) - Ngân Hàng TMCP Quân Đội
+2026-11-24 17:45:05,647 INFO [6] Senior Data Analyst (Analytics Engineering) - CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU
+2026-11-24 17:45:10,270 INFO [7] DATA ANALYST (TABLEAU) - HCI Group
+2026-11-24 17:45:13,940 INFO [8] Head of Data Analytics & AI - LOTTE FINANCE VIETNAM
+2026-11-24 17:45:16,809 INFO [9] Senior Software Engineer - Công Ty Cổ phần Tập Đoàn KIDO
+2026-11-24 17:45:21,774 INFO [10] Chuyên viên Cao cấp Công nghệ Mô hình - Senior Machine Learning Engineer - Khối Dữ liệu (2026TD456629) - Ngân Hàng TMCP Quân Đội
+2026-11-24 17:45:21,779 INFO Hoàn tất lượt chạy: +10 mới, 0 bỏ qua.
+2026-11-24 17:45:21,792 INFO === THỐNG KÊ test_raw.csv: 10 dòng, 10 URL duy nhất
+2026-11-24 17:45:21,792 INFO     Tỷ lệ có dữ liệu: Job_Title 100% | Company 100% | Location 100% | Salary 100% | Experience 100% | Description 100% | Requirements 100% | Benefits 100%
+2026-11-24 17:46:55,250 INFO Đã có 10 bản ghi trong data\test_raw.csv
+2026-11-24 17:46:55,472 INFO robots.txt cho phép /it-jobs/: True | sitemap khai báo: 1
+2026-11-24 17:46:55,954 INFO [data analyst] trang 1: https://itviec.com/it-jobs/data-analyst?page=1
+2026-11-24 17:47:11,190 WARNING Hết thời gian chờ nội dung tải: https://itviec.com/it-jobs/data-analyst?page=1
+2026-11-24 17:47:14,121 ERROR Bị chặn (status=403) tại https://itviec.com/it-jobs/data-analyst?page=1 | server=cloudflare cf-mitigated=challenge | đầu trang: '<!DOCTYPE html><html lang="en-us" dir="ltr"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><m' -> DỪNG. Không vượt rào; hãy đợi, giảm tốc độ hoặc đổi nguồn.
+2026-11-24 17:47:14,827 INFO Hoàn tất lượt chạy: +0 mới, 0 bỏ qua.
+2026-11-24 17:47:14,828 INFO === THỐNG KÊ test_raw.csv: 10 dòng, 10 URL duy nhất
+2026-11-24 17:47:14,828 INFO     Tỷ lệ có dữ liệu: Job_Title 100% | Company 100% | Location 100% | Salary 100% | Experience 100% | Description 100% | Requirements 100% | Benefits 100%
+2026-11-24 17:50:18,910 INFO Đã có 889 bản ghi trong D:\WorkSpace\Data_mining\files (1)\data\raw_data.csv
+2026-11-24 17:50:18,980 INFO robots.txt cho phép /viec-lam/: True | sitemap khai báo: 1
+2026-11-24 17:50:18,983 INFO [data analyst] trang 1: https://careerviet.vn/viec-lam/data-analyst-k-vi.html
+2026-11-24 17:50:20,878 INFO Tìm thấy 50 link tin (regex), 7 link mới
+2026-11-24 17:50:25,650 INFO [1] Senior Data Analyst (Analytics Engineering) - CÔNG TY CỔ PHẦN DƯỢC PHẨM FPT LONG CHÂU
+2026-11-24 17:50:30,457 INFO [2] Card Data Management Expert - FE CREDIT
+2026-11-24 17:50:34,867 INFO [3] Senior Finance Analyst (Cashew Bien Hoa II) - Công ty TNHH Olam Việt Nam
+2026-11-24 17:50:40,039 INFO [4] Chuyên Viên ESG - ATAD Steel Structure Corporation
+2026-11-24 17:50:46,343 INFO [5] Chuyên viên báo cáo và quản lý nợ (Khối QLRR) - FE CREDIT
+2026-11-24 17:50:50,294 INFO [6] Chuyên gia Dữ liệu và Giải pháp - BIM Group
+2026-11-24 17:50:54,742 INFO [7] Financial Analyst (Chuỗi F&B) - CÔNG TY CỔ PHẦN THỊNH THẾ VINH HOA
+2026-11-24 17:50:58,096 INFO [data analyst] trang 2: https://careerviet.vn/viec-lam/data-analyst-k-trang-2-vi.html
+2026-11-24 17:51:00,243 INFO Tìm thấy 50 link tin (regex), 2 link mới
+2026-11-24 17:51:04,668 INFO [8] ERP Support Staff - Rochdale Spears Co., Ltd.
+2026-11-24 17:51:08,845 INFO [9] Operations Administrator - DIGI-TEXX Vietnam
+2026-11-24 17:51:12,337 INFO [data analyst] trang 3: https://careerviet.vn/viec-lam/data-analyst-k-trang-3-vi.html
+2026-11-24 17:51:13,128 INFO Tìm thấy 26 link tin (regex), 2 link mới
+2026-11-24 17:51:16,938 INFO [10] Data Engineer - HN - TA174 - Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK
+2026-11-24 17:51:22,690 INFO [11] Chuyên viên cao cấp Quản lý kinh doanh (Chính sách kinh doanh & Phân tích dữ liệu) - Công Ty Tài Chính TNHH MB SHINSEI (MCREDIT)
+2026-11-24 17:51:26,158 INFO [data analyst] trang 4: https://careerviet.vn/viec-lam/data-analyst-k-trang-4-vi.html
+2026-11-24 17:51:26,743 INFO Tìm thấy 0 link tin (regex), 0 link mới
+2026-11-24 17:51:26,743 INFO Hết trang hoặc regex không khớp -> sang từ khóa kế.
+2026-11-24 17:51:26,743 INFO [data engineer] trang 1: https://careerviet.vn/viec-lam/data-engineer-k-vi.html
+2026-11-24 17:51:28,552 INFO Tìm thấy 50 link tin (regex), 2 link mới
+2026-11-24 17:51:33,902 INFO [12] Traffic & Events Marketing Staff - Headhunter HRchannels Group
+2026-11-24 17:51:37,582 INFO [13] [Hà Nội] Chuyên gia Quản lý Dữ liệu tài chính (MIS) - Khối TT&QTTC - Ngân hàng TMCP Lộc Phát Việt Nam (LPBank)
+2026-11-24 17:51:41,167 INFO [data engineer] trang 2: https://careerviet.vn/viec-lam/data-engineer-k-trang-2-vi.html
+2026-11-24 17:51:41,833 INFO Tìm thấy 17 link tin (regex), 2 link mới
+2026-11-24 17:51:46,465 INFO [14] Data Governance - HN - TA174 - Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK
+2026-11-24 17:51:51,517 INFO [15] Senior/Expert Data Architect (Database, ETL/ELT) - ABBank- Ngân Hàng TMCP An Bình
+2026-11-24 17:51:55,245 INFO [data engineer] trang 3: https://careerviet.vn/viec-lam/data-engineer-k-trang-3-vi.html
+2026-11-24 17:51:55,664 INFO Tìm thấy 0 link tin (regex), 0 link mới
+2026-11-24 17:51:55,664 INFO Hết trang hoặc regex không khớp -> sang từ khóa kế.
+2026-11-24 17:51:55,664 INFO [data scientist] trang 1: https://careerviet.vn/viec-lam/data-scientist-k-vi.html
+2026-11-24 17:51:57,245 INFO Tìm thấy 50 link tin (regex), 0 link mới
+2026-11-24 17:52:01,650 INFO [data scientist] trang 2: https://careerviet.vn/viec-lam/data-scientist-k-trang-2-vi.html
+2026-11-24 17:52:02,357 INFO Tìm thấy 13 link tin (regex), 0 link mới
+2026-11-24 17:52:06,719 INFO [data scientist] trang 3: https://careerviet.vn/viec-lam/data-scientist-k-trang-3-vi.html
+2026-11-24 17:52:07,266 INFO Tìm thấy 0 link tin (regex), 0 link mới
+2026-11-24 17:52:07,266 INFO Hết trang hoặc regex không khớp -> sang từ khóa kế.
+2026-11-24 17:52:07,267 INFO [business intelligence] trang 1: https://careerviet.vn/viec-lam/business-intelligence-k-vi.html
+2026-11-24 17:52:08,662 INFO Tìm thấy 50 link tin (regex), 22 link mới
+2026-11-24 17:52:13,137 INFO [16] IT BUSINESS ANALYST (Yêu cầu biết tiếng Trung) - Công Ty TNHH Okia Optical Việt Nam
+2026-11-24 17:52:16,516 INFO [17] Nhân viên phân tích nghiệp vụ (BA) - Công Ty Cổ Phần Giải Pháp Thanh Toán Việt Nam (VNPAY)
+2026-11-24 17:52:20,185 INFO [18] Finance Business Analyst Manager – ID4156 - Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK
+2026-11-24 17:52:25,114 INFO [19] Chuyên viên cao cấp - Phân tích kinh doanh (BUSINESS ANALYST ) - CÔNG TY TNHH MTV CHẾ TÁC VÀ KINH DOANH TRANG SỨC PNJ
+2026-11-24 17:52:29,905 INFO [20] Viettel Asset - KỸ SƯ CNTT - HỆ THỐNG QUẢN LÝ TÀI SẢN - CÔNG TY QUẢN LÝ TÀI SẢN VIETTEL
+2026-11-24 17:52:33,879 INFO [21] FOX0007 | Chuyên Viên Tư Vấn Giải Pháp (Pre-Sales) - CÔNG TY CỔ PHẦN CÔNG NGHỆ FOXAI
+2026-11-24 17:52:39,307 INFO [22] FOX0007 | Chuyên Viên Tư Vấn Giải Pháp (Pre-Sales) - CÔNG TY CỔ PHẦN CÔNG NGHỆ FOXAI
+2026-11-24 17:52:44,059 INFO [23] Giám đốc Phát triển Sản phẩm - Trung tâm Thẻ và Tín dụng số - BVBank - Ngân hàng Bản Việt
+2026-11-24 17:52:50,938 INFO [24] Brand Manager - Watch & Jewelry - Công Ty Cổ Phần Thời Trang & Mỹ Phẩm Duy Anh (DAFC)
+2026-11-24 17:52:54,859 INFO [25] Chuyên viên Phân tích nghiệp vụ BA mảng Y tế - Công ty Cổ phần Tập đoàn Y Dược Vietlife
+2026-11-24 17:52:58,670 INFO [26] Senior IT Portfolio Management Officer - LOTTE FINANCE VIETNAM
+2026-11-24 17:53:04,515 INFO [27] NHÂN VIÊN VI TÍNH - DỰ ÁN TRUNG TÂM PHÂN PHỐI MIỀN TRUNG - Liên Hiệp HTX Thương Mại TPHCM - SAIGON CO.OP
+2026-11-24 17:53:09,946 INFO [28] MES Specialist - Sonion Vietnam
+2026-11-24 17:53:14,800 INFO [29] CHUYÊN VIÊN CAO CẤP QUẢN TRỊ THANH KHOẢN - P. CÂN ĐỐI NGUỒN VỐN & THANH KHOẢN - NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN SÀI GÒN TÀI LỘC (SACOMBANK)
+2026-11-24 17:53:19,912 INFO [30] Chuyên viên Quản lý dự án - Ngân hàng Liên doanh Việt - Nga (VRB)
+2026-11-24 17:53:24,638 INFO [31] Chuyên viên Phân tích Nghiệp vụ - CÔNG TY CỔ PHẦN CHỨNG KHOÁN VPS
+2026-11-24 17:53:29,767 INFO [32] (CĐT BĐS) KẾ TOÁN TRƯỞNG - LƯƠNG THỎA THUẬN - CÔNG TY CỔ PHẦN ĐẦU TƯ DANCO
+2026-11-24 17:53:34,657 INFO [33] Trưởng nhóm quản lý thiết bị - CÔNG TY CỔ PHẦN MORINAGA NUTRITIONAL FOODS VIỆT NAM
+2026-11-24 17:53:38,898 INFO [34] Business Analyst - Công ty TNHH Viettel - CHT
+2026-11-24 17:53:43,669 INFO [35] Business Analyst  (Logistics experienced is preferable) - S.F. EXPRESS LTD.
+2026-11-24 17:53:47,370 INFO [36] BUSINESS ANALYST (LOGISTICS) - CÔNG TY CỔ PHẦN HASAKI VIETNAM
+2026-11-24 17:53:53,941 INFO [37] IT - Senior/Lead Business Analyst | LOS/BPM/Workflow Automation - Ngân Hàng TMCP Phương Đông - OCB
+2026-11-24 17:53:57,115 INFO [business intelligence] trang 2: https://careerviet.vn/viec-lam/business-intelligence-k-trang-2-vi.html
+2026-11-24 17:53:58,864 INFO Tìm thấy 50 link tin (regex), 30 link mới
+2026-11-24 17:54:03,105 INFO [38] Nhân Viên Phân Tích Mẫu - CÔNG TY CỔ PHẦN HÓA CHẤT HIẾM VIỆT NAM
+2026-11-24 17:54:07,553 INFO [39] Nhân viên phân tích tài chính - Công ty TNHH Bệnh Viện Gia An 115
+2026-11-24 17:54:14,791 INFO [40] Business Analyst (Phân Tích Nghiệp Vụ, Dự Án Giáo Dục) - HỆ THỐNG GIÁO DỤC EDUFIT
+2026-11-24 17:54:18,995 INFO [41] NHÂN VIÊN PHÂN TÍCH NĂNG SUẤT SẢN XUẤT (NGÀNH MAY MẶC) - CÔNG TY CỔ PHẦN HASAKI VIETNAM
+2026-11-24 17:54:23,539 INFO [42] Chuyên Viên Phân Tích Nghiệp Vụ IT (Sản Xuất, Tiếng Trung, Làm việc tại Long An) - Headhunter HRchannels Group
+2026-11-24 17:54:27,718 INFO [43] Chuyên viên Product Owner (PO) - CÔNG TY CỔ PHẦN CHỨNG KHOÁN HD
+2026-11-24 17:54:32,785 INFO [44] CV/CVCC Product Owner (Trading & Investment platform) - CÔNG TY CỔ PHẦN CHỨNG KHOÁN HD
+2026-11-24 17:54:36,524 INFO [45] Chuyên viên cao cấp đại diện đơn vị nghiệp vụ - RB - MSB - 1O350 - Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam (MSB)
+2026-11-24 17:54:42,028 INFO [46] Senior Project Coordinator - CÔNG TY TÀI CHÍNH TÍN DỤNG TIÊU DÙNG TNHH MTV SFINANCE
+2026-11-24 17:54:47,310 INFO [47] Product Owner (Meey Chat/Meey Atlas/Meey Land) - Công ty Cổ phần Tập đoàn Meey Land
+2026-11-24 17:54:52,237 INFO [48] Chuyên Viên Phát Triển Sản Phẩm (Meey Chat/Meey Atlas/Meey Land) - Công ty Cổ phần Tập đoàn Meey Land
+2026-11-24 17:54:55,673 INFO [49] Product Management ICT - Công ty TNHH MTV Công nghệ Tin học Viễn Sơn
+2026-11-24 17:55:00,706 INFO [50] Corporate Financial Analyst - Công Ty Cổ Phần TEECOM
+2026-11-24 17:55:04,660 INFO [51] FOX0014 | Chuyên Viên Tư Vấn Triển Khai Hành Chính Công - CÔNG TY CỔ PHẦN CÔNG NGHỆ FOXAI
+2026-11-24 17:55:09,697 INFO [52] UI/UX Designer  (Meey Map/Meey Land/Meey Atlas) - Công ty Cổ phần Tập đoàn Meey Land
+2026-11-24 17:55:13,852 INFO [53] Chuyên Viên Thiết Kế Sản Phẩm (Meey Map/Meey Land/Meey Atlas) - Công ty Cổ phần Tập đoàn Meey Land
+2026-11-24 17:55:18,717 INFO [54] Kiểm toán viên Công nghệ thông tin - Hội sở Hà Đông Hà Nội - Ngân hàng TMCP Việt Á – VietABank
+2026-11-24 17:55:22,292 INFO [55] CVCC Cải tiến quy trình - TA162 - ID12128 - Ngân Hàng TMCP Việt Nam Thịnh Vượng - VPBANK
+2026-11-24 17:55:27,506 INFO [56] Kiểm toán viên Công nghệ thông tin - Hội sở TP. Hồ Chí Minh - Ngân hàng TMCP Việt Á – VietABank
+2026-11-24 17:55:32,284 INFO [57] Chuyên Viên Tư Vấn Triển Khai Phần Mềm Senior Software Consultant - OMN1 Solution
+2026-11-24 17:55:37,765 INFO [58] TRƯỞNG PHÒNG QA/QC (mạnh về quy trình) - THỜI TRANG LINING_CÔNG TY TNHH QUỐC TẾ HẢI LONG
+2026-11-24 17:55:42,099 INFO [59] TRƯỞNG PHÒNG QA/QC (mảng bán lẻ) - THỜI TRANG LINING_CÔNG TY TNHH QUỐC TẾ HẢI LONG
+2026-11-24 17:55:47,303 INFO [60] Thực tập sinh Ban Chuyển Đổi Số - CÔNG TY CỔ PHẦN TẬP ĐOÀN ONSEN FUJI
+2026-11-24 17:55:51,293 INFO [61] Chuyên viên Tổng hợp (Admin) (Quảng Ninh) - Tổng công ty Cổ phần Bia - Rượu - Nước giải khát Hà Nội (HABECO - Bia Hà Nội)
+2026-11-24 17:55:55,280 INFO [62] Chuyên Viên Hệ thống Và Vận Hành - CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ NHỊ GIA
+2026-11-24 17:56:00,318 INFO [63] Trợ lý Tổng Giám đốc Tổng Công ty Công nghệ - Tập Đoàn Tân Á Đại Thành
+2026-11-24 17:56:04,984 INFO [64] Chuyên viên cao cấp Phân tích hiệu quả Sản phẩm - Ngân hàng TMCP Phát triển TP.HCM (HDBank)
+2026-11-24 17:56:09,381 INFO [65] [HCMC - Thu Duc] Application Support Intern (IT) - 6 months internship - EUROFINS VIETNAM
+2026-11-24 17:56:13,446 INFO [66] CVC/CVCC/Chuyên Gia Phân Tích Ngành & Doanh Nghiệp - CÔNG TY CỔ PHẦN CHỨNG KHOÁN ASEAN
+2026-11-24 17:56:16,999 INFO [67] Chuyên viên Chiến lược kinh doanh - Công ty TNHH Viettel - CHT
+2026-11-24 17:56:20,212 INFO [business intelligence] trang 3: https://careerviet.vn/viec-lam/business-intelligence-k-trang-3-vi.html
+2026-11-24 17:56:21,223 INFO Tìm thấy 23 link tin (regex), 18 link mới
+2026-11-24 17:56:25,643 INFO [68] HSE Leader - Công ty Cổ phần Tập Đoàn Địa Ốc Cát Tường
+2026-11-24 17:56:30,650 INFO [69] Assistant to the Chief Technology Officer (Strategy & Go-to-Market) - Công ty Cổ phần Tập đoàn Meey Land
+2026-11-24 17:56:34,714 INFO [70] Product Owner (Meey Value/Meey Finance) - Công ty Cổ phần Tập đoàn Meey Land
+2026-11-24 17:56:39,896 INFO [71] Chuyên Viên Phát Triển Sản Phẩm (Meey Value/Meey Finance) - Công ty Cổ phần Tập đoàn Meey Land
+2026-11-24 17:56:43,865 INFO [72] Quản lý Quản trị Rủi ro Công nghệ thông tin - CÔNG TY CỔ PHẦN KINH DOANH F88
+2026-11-24 17:56:48,303 INFO [73] [BAF Việt Nam] Chuyên viên tuyển dụng - Công ty Cổ phần Nông nghiệp BAF Việt Nam
+2026-11-24 17:56:52,688 INFO [74] Chuyên gia ứng dụng AI và Công nghệ - ERAS GROUP
+2026-11-24 17:56:58,031 INFO [75] Chuyên viên Công nghệ thông tin (IT Project) - PTSC Offshore Services (POS)
+2026-11-24 17:57:01,594 INFO [76] Chuyên Viên Cao Cấp/ Chuyên viên Giải pháp số - NGÂN HÀNG TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN VIỆT NAM HIỆN ĐẠI
+2026-11-24 17:57:05,847 INFO [77] TRƯỞNG TRẠM VẬN HÀNH XỬ LÝ NƯỚC THẢI/ SENIOR ENGINEER - CÔNG TY CỔ PHẦN MTETECH
+2026-11-24 17:57:10,400 INFO [78] (CĐT BĐS) KẾ TOÁN TRƯỞNG - LƯƠNG THỎA THUẬN - CÔNG TY CỔ PHẦN ĐẦU TƯ DANCO
+2026-11-24 17:57:14,097 INFO [79] Giám Sát Sản Xuất - CÔNG TY CỔ PHẦN CHẾ BIẾN THỰC PHẨM HOÀNG SƠN
+2026-11-24 17:57:17,759 INFO [80] Chuyên viên công nghệ thông tin (Mảng chuyển đổi số) - PTSC Offshore Services (POS)
+2026-11-24 17:57:23,274 INFO [81] IT Procurement Expert (Kế toán Mua sắm CNTT) - HSC - Chứng Khoán Thành Phố Hồ Chí Minh
+2026-11-24 17:57:27,780 INFO [82] STORE MANAGER – QUẢN LÝ SIÊU THỊ - CÔNG TY TNHH NAIL LA MOS
+2026-11-24 17:57:31,728 INFO [83] Business Analysis Supervisor - CÔNG TY TNHH INDOVIETNAM
+2026-11-24 17:57:36,498 INFO [84] HR Operation Intern - Công Ty Cổ Phần GreenFeed Việt Nam
+2026-11-24 17:57:40,538 INFO [85] Thực Tập Sinh Digital Marketing - Công ty TNHH Lửa Á Châu
+2026-11-24 17:57:45,145 INFO [business intelligence] trang 4: https://careerviet.vn/viec-lam/business-intelligence-k-trang-4-vi.html
+2026-11-24 17:57:45,663 INFO Tìm thấy 0 link tin (regex), 0 link mới
+2026-11-24 17:57:45,663 INFO Hết trang hoặc regex không khớp -> sang từ khóa kế.
+2026-11-24 17:57:45,663 INFO [power bi] trang 1: https://careerviet.vn/viec-lam/power-bi-k-vi.html
+2026-11-24 17:57:47,048 INFO Tìm thấy 50 link tin (regex), 29 link mới
+2026-11-24 17:57:50,735 INFO [86] Sales Operations Manager - Công Ty TNHH Map Pacific Singapore
+2026-11-24 17:57:55,327 INFO [87] Nhân viên kế hoạch nhu cầu - Công ty Cổ Phần Thực Phẩm Dinh Dưỡng NutiFood
+2026-11-24 17:57:59,698 INFO [88] Nhân viên bảo trì phòng ngừa vật tư MRO - Tan Hiep Phat Group
+2026-11-24 17:58:04,000 INFO [89] Machine Operator/ Nhân viên Vận hành Sản xuất (Nhà máy Rang Cà phê Highlands) - Highlands Coffee Roastery
+2026-11-24 17:58:08,491 INFO [90] CHUYÊN VIÊN TÀI CHÍNH - CÔNG TY CỔ PHẦN NÔNG NGHIỆP VIỆT PHI
+2026-11-24 17:58:14,203 INFO [91] Quality Intern (Shuttle Bus) - TAVN
+2026-11-24 17:58:19,856 INFO [92] Channel Development Finance Supervisor - Masan Consumer
+2026-11-24 17:58:25,480 INFO [93] IMPORT & EXPORT EXECUTIVE (9-MONTH CONTRACT) - Công ty TNHH Kimberly Clark Việt Nam
+2026-11-24 17:58:29,230 INFO [94] Nhân Viên Kiểm Soát Sản Xuất (Tiếng Hoa) - Công Ty TNHH Apparel Far Eastern (Việt Nam)
+2026-11-24 17:58:34,672 INFO [95] Growth Marketing Executive (Mảng app Phê La) - CÔNG TY CỔ PHẦN PHÊ LA
+2026-11-24 17:58:38,171 INFO [96] [Bắc Ninh] Chuyên Viên Điều Phối Kho - CÔNG TY CỔ PHẦN DỊCH VỤ THƯƠNG MẠI TỔNG HỢP WINCOMMERCE
+2026-11-24 17:58:43,347 INFO [97] [Hải phòng] Chuyên Viên Điều Phối Kho - CÔNG TY CỔ PHẦN DỊCH VỤ THƯƠNG MẠI TỔNG HỢP WINCOMMERCE
+2026-11-24 17:58:46,958 INFO [98] Supervisor - Commercial Finance Business Partner - Cổ Phần Kết Nối Nhân Tài - Talentnet Corporation
+2026-11-24 17:58:51,148 INFO [99] EHS Specialist (Củ Chi - Free Shuttle Bus) - Techtronic Industries (Vietnam) Company Limited
+2026-11-24 17:58:55,054 INFO [100] Internal Auditor - Công Ty TNHH YKK Việt Nam
+2026-11-24 17:58:59,243 INFO [101] OPD/Shipping Specialist (Đồng Nai or Củ Chi | Work in Shift) - Techtronic Industries (Vietnam) Company Limited
+2026-11-24 17:59:03,877 INFO [102] Kiểm soát viên Thanh toán Quốc tế/Khối Vận hành - Ngân Hàng TMCP Tiên Phong (TPBank)
+2026-11-24 17:59:07,372 INFO [103] Specialist, Process Engineer (Plating) - CÔNG TY TNHH PANDORA PRODUCTION VIỆT NAM
+2026-11-24 17:59:11,031 INFO [104] Dealer Network Development Coordinator (Automotive Engineering) - Công Ty TNHH Ô Tô Isuzu Việt Nam
+2026-11-24 17:59:16,657 INFO [105] Specialist, Production Academy (Technical Training) - CÔNG TY TNHH PANDORA PRODUCTION VIỆT NAM
+2026-11-24 17:59:22,016 INFO [106] Preventive Maintenance Planner (English & Chinese Preferred) - CÔNG TY TNHH ZOTEFOAMS VIỆT NAM
+2026-11-24 17:59:26,394 INFO [107] DL Recruitment & Employee Relations Specialist - Jabil Technology Vietnam
+2026-11-24 17:59:31,480 INFO [108] Chuyên viên kiểm soát nội bộ/Internal Control Specialist - CÔNG TY CỔ PHẦN GREEN SPEED
+2026-11-24 17:59:36,780 INFO [109] Finance Business Partner Specialist (F&B/ Nightlife) - Công Ty Hoàng An Nhiên
+2026-11-24 17:59:42,187 INFO [110] Management Accountant (Free Shuttle Bus) - Techtronic Industries (Vietnam) Company Limited
+2026-11-24 17:59:46,227 INFO [111] Trưởng phòng Tài Chính (Upto 90M) - THỜI TRANG LINING_CÔNG TY TNHH QUỐC TẾ HẢI LONG
+2026-11-24 17:59:50,373 INFO [112] Supply Planning Specialist in District 7 - CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ SẢN XUẤT HƯƠNG THỦY
+2026-11-24 17:59:54,552 INFO [113] TAX ASSISTANT MANAGER / TAX MANAGER - Techtronic Industries (Vietnam) Company Limited
+2026-11-24 17:59:58,685 INFO [114] Sales Planning Staff - Công Ty TNHH Ô Tô Isuzu Việt Nam
+2026-11-24 18:00:02,541 INFO [power bi] trang 2: https://careerviet.vn/viec-lam/power-bi-k-trang-2-vi.html
+2026-11-24 18:00:03,650 INFO Tìm thấy 50 link tin (regex), 24 link mới
+2026-11-24 18:00:08,417 INFO [115] Kế toán tổng hợp - IDOCEAN Co.,ltd
+2026-11-24 18:00:11,986 INFO [116] Quản Lý Dự Án Nhà Máy - Công ty Cổ phần Thiết bị và Giải pháp cơ khí Automech
+2026-11-24 18:00:15,674 INFO [117] Order Processing Demand (OPD) Specialist | Dong Nai - Free Shuttle Bus - Techtronic Industries (Vietnam) Company Limited
+2026-11-24 18:00:20,495 INFO [118] Chuyên viên Tài chính cấp cao - Vantage Logistics Corporation
+2026-11-24 18:00:23,928 INFO [119] Chuyên viên Kiểm Toán Nội Bộ - Internal Auditor - Vietmap - Công ty Cổ phần Ứng Dụng Bản Đồ Việt
+2026-11-24 18:00:28,269 INFO [120] Account Management Manager - Công Ty TNHH LF Logistics (Việt Nam)
+2026-11-24 18:00:33,998 INFO [121] Chuyên Viên Tài Chính - Công ty cổ phần Nu Việt Nam
+2026-11-24 18:00:38,970 INFO [122] Sales Planning Executive - Công Ty Cổ Phần TARA
+2026-11-24 18:00:43,125 INFO [123] Chuyên Viên Chính Phát Triển Tổ Chức (OD) - CÔNG TY CỔ PHẦN PHÁT TRIỂN BẤT ĐỘNG SẢN VĂN PHÚ
+2026-11-24 18:00:47,171 INFO [124] Kế Toán Tổng Hợp - CÔNG TY CỔ PHẦN SẢN XUẤT THƯƠNG MẠI NỆM VIỆT HÀN
+2026-11-24 18:00:51,746 INFO [125] Giám đốc nghiệp vụ R&D Sản phẩm BĐS - CÔNG TY CỔ PHẦN TẬP ĐOÀN T&T
+2026-11-24 18:00:58,084 INFO [126] Chuyên Viên C&B - CÔNG TY CỔ PHẦN BOHO CORPORATION
+2026-11-24 18:01:02,687 INFO [127] QC Manager - CÔNG TY CỔ PHẦN PHÊ LA
+2026-11-24 18:01:06,708 INFO [128] Chuyên gia Quản trị và cải tiến vận hành - Operations Management and Improvement Specialist - Khối Vận hành - Công Ty Tài Chính TNHH MB SHINSEI (MCREDIT)
+2026-11-24 18:01:11,418 INFO [129] Nhân viên/Chuyên viên tài chính - CTY TNHH KIÊN THÀNH TÍN
+2026-11-24 18:01:15,878 INFO [130] Kế toán tổng hợp - Công Ty Cổ Phần Xuất Nhập Khẩu Thương Mại Đài Linh
+2026-11-24 18:01:20,648 INFO [131] Quality Assurance Manager - CareerViet's client
+2026-11-24 18:01:24,760 INFO [132] Phó phòng Vận hành & Quản lý dữ liệu thi - Công ty CP IIG Việt Nam
+2026-11-24 18:01:28,714 INFO [133] Quản lý phát hành phim - Beta Group
+2026-11-24 18:01:33,832 INFO [134] Production Supervisor - KCN Long Hậu - Saint-Gobain Vietnam
+2026-11-24 18:01:38,331 INFO [135] Chuyên gia Marcom Chứng khoán (SBSI) - Popplife - 4Z073 - Tập đoàn ROX (ROX Group)
+2026-11-24 18:01:43,184 INFO [136] Chuyên viên, Chuyên viên cao cấp Đầu tư chiến lược và M&A - Investment and M&A Specialist, Senior Specialist - Khối Đầu tư (2025TD103) - Ngân Hàng TMCP Quân Đội
+2026-11-24 18:01:47,460 INFO [137] Outbound Team Leader (Warehouse - Nha Be) - Zuellig Pharma Viet Nam
+2026-11-24 18:01:52,085 INFO [138] Digital Marketing Executive - ILA Việt Nam
+2026-11-24 18:01:55,890 INFO [power bi] trang 3: https://careerviet.vn/viec-lam/power-bi-k-trang-3-vi.html
+2026-11-24 18:01:57,498 INFO Tìm thấy 50 link tin (regex), 26 link mới
+2026-11-24 18:02:02,300 INFO [139] Chuyên Viên Vận Hành Sản Xuất - Công Ty Cổ Phần GreenFeed Việt Nam
+2026-11-24 18:02:07,365 INFO [140] Chuyên viên Quản lý Ngân sách & Tài chính Dự án - Công Ty Cổ Phần Cơ Khí Xây Dựng Thương Mại Đại Dũng
+2026-11-24 18:02:10,774 INFO [141] Chuyên Viên Phân Tích Tài Chính - THỜI TRANG LINING_CÔNG TY TNHH QUỐC TẾ HẢI LONG
+2026-11-24 18:02:16,159 INFO [142] Senior Financial Planning and Analysis - Công Ty CP Vàng Bạc Đá Quý Phú Nhuận - PNJ
+2026-11-24 18:02:21,089 INFO [143] Senior Costing Finance (Supply Chain) - Công Ty CP Vàng Bạc Đá Quý Phú Nhuận - PNJ
+2026-11-24 18:02:25,304 INFO [144] CHUYÊN VIÊN KẾ TOÁN QUẢN TRỊ - Công Ty Cổ phần Tập Đoàn KIDO
+2026-11-24 18:02:29,801 INFO [145] Trưởng Nhóm Tuyển Dụng - Công ty Cổ phần Đầu tư Asia Dragon
+2026-11-24 18:02:33,839 INFO [146] [Tâm Anh HCM] Chuyên Viên Quản Trị Tài Chính Và Ngân Sách - BỆNH VIỆN ĐA KHOA TÂM ANH TP. HỒ CHÍ MINH
+2026-11-24 18:02:37,341 INFO [147] Trade Marketing Intern - Công ty TNHH Mayora Việt Nam
+2026-11-24 18:02:41,673 INFO [148] Production Supervisor (KCN Long Bình) - Công ty TNHH Olam Việt Nam
+2026-11-24 18:02:46,789 INFO [149] [Khối Bancassurance] Chuyên viên cao cấp Quản trị Lực lượng bán - CÔNG TY TNHH BẢO HIỂM NHÂN THỌ MB AGEAS
+2026-11-24 18:02:51,703 INFO [150] Nhân viên nhân sự tiền lương - Công ty TNHH Giầy Chingluh Việt Nam
+2026-11-24 18:02:55,924 INFO [151] HCM - Merchandise Planning Supervisor (Charles & Keith) - CÔNG TY CỔ PHẦN MAISON RETAIL MANAGEMENT INTERNATIONAL
+2026-11-24 18:02:59,911 INFO [152] General Ledger Accountant - Rochdale Spears Co., Ltd.
+2026-11-24 18:03:04,803 INFO [153] Chuyên viên Tài chính Kế hoạch ( FP&A specialist)) - Công ty CP Thành Thành Công - Biên Hòa
+2026-11-24 18:03:10,062 INFO [154] Kế toán quản trị - Công Ty Cổ Phần Bột - Thực Phẩm Tài Ký
+2026-11-24 18:03:15,324 INFO [155] Ecommerce Platform Executive/Specialist - Concung.com - Con Cung Joint Stock Company
+2026-11-24 18:03:20,485 INFO [156] Chuyên Viên Tiếp Thị Thương Mại Ngành Hàng GT - Công ty Cổ Phần Thực Phẩm Dinh Dưỡng NutiFood
+2026-11-24 18:03:24,700 INFO [157] Supervisor Financial Planning & Analysis - Công Ty TNHH SML Việt Nam
+2026-11-24 18:03:28,236 INFO [158] CHUYÊN VIÊN ISO - NGÀNH MAY MẶC (LONG AN) - CÔNG TY CỔ PHẦN HASAKI VIETNAM
+2026-11-24 18:03:32,849 INFO [159] Planning Supervisor - HR Vietnam’s ESS Client
+2026-11-24 18:03:36,565 INFO [160] Senior Accountant - Costing - Suntory PepsiCo
+2026-11-24 18:03:40,825 INFO [161] Brand Training Executive (Fashion Retail) - CÔNG TY TNHH THỜI TRANG VÀ MỸ PHẨM ÂU CHÂU
+2026-11-24 18:03:46,894 INFO [162] Chuyên Viên Điều Phối Kho Vận (Đà Nẵng) - CÔNG TY CỔ PHẦN DỊCH VỤ THƯƠNG MẠI TỔNG HỢP WINCOMMERCE
+2026-11-24 18:03:51,465 INFO [163] NHÂN VIÊN ISO NGÀNH MAY MẶC (LONG AN) - CÔNG TY CỔ PHẦN HASAKI VIETNAM
+2026-11-24 18:03:56,026 INFO [164] Chuyên viên tài chính - Công ty cổ phần sản xuất và xuất khẩu Quế hồi Việt Nam
+2026-11-24 18:04:00,197 INFO [power bi] trang 4: https://careerviet.vn/viec-lam/power-bi-k-trang-4-vi.html
+2026-11-24 18:04:02,086 INFO Tìm thấy 50 link tin (regex), 32 link mới
+2026-11-24 18:04:07,479 INFO [165] Accounting Manager - Operations & Costing - Suntory PepsiCo
+2026-11-24 18:04:12,302 INFO [166] Nhân Viên Kiểm Soát Rủi Ro Công Nợ - Công ty TNHH ADC
+2026-11-24 18:04:17,774 INFO [167] Trợ lý nhóm Tài chính - Kế toán - Công ty TNHH SX-TM Thép Tây Nam
+2026-11-24 18:04:21,435 INFO [168] NHÂN VIÊN ISO - NGÀNH MAY MẶC  (LONG AN) - CÔNG TY CỔ PHẦN HASAKI VIETNAM
+2026-11-24 18:04:25,748 INFO [169] Data Supervisor - DHL Supply Chain (Việt Nam) Ltd
+2026-11-24 18:04:29,388 INFO [170] Kiểm soát nội bộ (up to 28M) - THỜI TRANG LINING_CÔNG TY TNHH QUỐC TẾ HẢI LONG
+2026-11-24 18:04:34,502 INFO [171] Senior Planning Manager - Công ty TNHH Spartronics Việt Nam
+2026-11-24 18:04:40,127 INFO [172] NHÂN VIÊN QUẢN LÝ SẢN XUẤT  (LONG AN) - CÔNG TY CỔ PHẦN HASAKI VIETNAM
+2026-11-24 18:04:44,429 INFO [173] Chuyên viên kiểm soát nội bộ - THỜI TRANG LINING_CÔNG TY TNHH QUỐC TẾ HẢI LONG
+2026-11-24 18:04:49,559 INFO [174] Kiểm soát nội bộ - THỜI TRANG LINING_CÔNG TY TNHH QUỐC TẾ HẢI LONG
+2026-11-24 18:04:53,485 INFO [175] Bim Leader (MEP) - Mars Corporation
+2026-11-24 18:04:57,382 INFO [176] Nhân viên kế toán tổng hợp - Công Ty Cố Phẩn Every Half Bean
+2026-11-24 18:05:02,270 INFO [177] QE Engineer - PCBA Experience - Techtronic Industries (Vietnam) Company Limited
+2026-11-24 18:05:06,080 INFO [178] Accounting Manager - Công ty Cổ phần Mediamart Việt Nam
+2026-11-24 18:05:10,057 INFO [179] Nhân viên Tài chính - Gilimex
+2026-11-24 18:05:14,949 INFO [180] Chuyên Viên Kiểm Tra Kiểm Soát Tài Chính - Công ty TNHH MTV Sen Vàng Việt Nam
+2026-11-24 18:05:20,120 INFO [181] Customer Service Officer / Nhân Viên Dịch Vụ Khách Hàng - Wipro Consumer Care Vietnam
+2026-11-24 18:05:25,034 INFO [182] Kế toán Tổng hợp - CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI FOREVER
+2026-11-24 18:05:29,734 INFO [183] HRBP SUPERVISOR - F&B - Công Ty Cổ Phần Tầm Nhìn Quốc Tế Aladdin
+2026-11-24 18:05:34,741 INFO [184] Trợ Lý Revenue - Công Ty Cổ Phần A25 Hotel
+2026-11-24 18:05:39,351 INFO [185] PMC Sourcing Staff - CÔNG TY TNHH AMPHENOL TECHNOLOGY VIỆT NAM (AFOV)
+2026-11-24 18:05:43,412 INFO [186] OCOBA - TRƯỞNG PHÒNG NGHIÊN CỨU THỊ TRƯỜNG - Công Ty Cổ Phần Thực Phẩm Ocoba
+2026-11-24 18:05:47,028 INFO [187] Nhân Viên Đối Tác Tài Chính Kinh Doanh / Finance Business Partner Staff - CÔNG TY CỔ PHẦN DƯỢC LIỆU TRUNG ƯƠNG 2
+2026-11-24 18:05:52,588 INFO [188] MOLDSHOP OEE STAFF - CÔNG TY TNHH CARBORI MOLDS VIỆT NAM
+2026-11-24 18:05:56,209 INFO [189] Finance Manager (Upto 90M) - THỜI TRANG LINING_CÔNG TY TNHH QUỐC TẾ HẢI LONG
+2026-11-24 18:06:01,720 INFO [190] Trợ lý giám đốc sản xuất - Công ty Cổ phần Casla
+2026-11-24 18:06:07,197 INFO [191] Industrial Engineering Supervisor - Công Ty TNHH Yokohama Tyre Việt Nam
+2026-11-24 18:06:12,148 INFO [192] CHUYÊN VIÊN BÁO CÁO QUẢN TRỊ TÀI CHÍNH - HCI Group
+2026-11-24 18:06:15,922 INFO [193] Nhân viên kế hoạch sản xuất (Bình Phước) - Tập Đoàn Kim Tín
+2026-11-24 18:06:20,500 INFO [194] Digital Marketing Executive (E-commerce) - Tập Đoàn Karofi Holding
+2026-11-24 18:06:25,404 INFO [195] Chuyên Viên Mua Hàng Media - CÔNG TY CỔ PHẦN EPLUS RESEARCH
+2026-11-24 18:06:30,403 INFO [196] Chuyên Viên Phân Tích Tài Chính - FP&A - CÔNG TY TNHH CÔNG NGHỆ VẬT LIỆU MỚI ĐỨC THỊNH
+2026-11-24 18:06:34,164 INFO [power bi] trang 5: https://careerviet.vn/viec-lam/power-bi-k-trang-5-vi.html
+2026-11-24 18:06:36,004 INFO Tìm thấy 50 link tin (regex), 29 link mới
+2026-11-24 18:06:41,584 INFO [197] Data Entry & Platform  Operator - CÔNG TY TNHH SOCOTEC VIỆT NAM
+2026-11-24 18:06:46,412 INFO [198] EHS Specialist (Dau Giay, Dong Nai | Free Shuttle Bus) - Techtronic Industries (Vietnam) Company Limited
+2026-11-24 18:06:51,676 INFO [199] [Hanoi] - Chuyên viên cao cấp Mua sắm tập trung - Khối Vận hành - Ngân Hàng TMCP Tiên Phong (TPBank)
+2026-11-24 18:06:56,599 INFO [200] Quản lý dự án (Project Manager) - Khối Chiến lược - Ngân hàng TMCP Đại Chúng Việt Nam - PVcomBank
+2026-11-24 18:07:01,215 INFO [201] Chuyên viên quản trị hiệu suất và KSTT - CÔNG TY CỔ PHẦN TẬP ĐOÀN FECON
+2026-11-24 18:07:06,735 INFO [202] GIÁM ĐỐC TÀI CHÍNH - Công ty cổ phần sản xuất và xuất khẩu Quế hồi Việt Nam
+2026-11-24 18:07:11,789 INFO [203] NHÂN VIÊN ĐIỀU PHỐI VẬT TƯ (VẬT LIỆU XÂY DỰNG) - KHU ĐÔ THỊ & NGHỈ DƯỠNG CARAWORLD CAM RANH - CÔNG TY TNHH KN CAM RANH
+2026-11-24 18:07:16,035 INFO [204] Trưởng Phòng Tài Chính - CÔNG TY CỔ PHẦN SẢN XUẤT THƯƠNG MẠI NỆM VIỆT HÀN
+2026-11-24 18:07:22,786 INFO [205] Phân tích dữ liệu chính sách rủi ro - TNEX - 4Z051 - CÔNG TY TÀI CHÍNH TNHH MTV TNEX (TNEX Finance)
+2026-11-24 18:07:26,695 INFO [206] Chuyên viên Kiểm soát Tài chính - HCI Group
+2026-11-24 18:07:30,790 INFO [207] Chuyên Viên Kiểm Soát Chi Phí - Công Ty Cổ Phần Cơ Khí Xây Dựng Thương Mại Đại Dũng
+2026-11-24 18:07:34,389 INFO [208] Route to Market Executive - CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ SẢN XUẤT HƯƠNG THỦY
+2026-11-24 18:07:39,353 INFO [209] Trưởng nhóm IPQC - Đồng Nai - Techtronic Industries (Vietnam) Company Limited
+2026-11-24 18:07:43,716 INFO [210] Kế Toán Tổng Hợp (Thuế) - CÔNG TY CỔ PHẦN XNK AL METAL
+2026-11-24 18:07:49,255 INFO [211] Quản lý vận hành khối kinh doanh - CÔNG TY CỔ PHẦN CÔNG NGHIỆP WELDCOM
+2026-11-24 18:07:54,103 INFO [212] CHUYÊN VIÊN TRADE MARKETING DƯỢC (PHỤ TRÁCH PROMOTION) - BOSTON PHARMA - Công Ty CP Dược Phẩm Boston Việt Nam
+2026-11-24 18:08:00,139 INFO [213] Giám đốc Tối ưu Vận hành (Operational Excellence Director) - Nhất Tín Logistics
+2026-11-24 18:08:03,947 INFO [214] Chuyên viên Phân tích Tài chính - CÔNG TY TNHH PHỒN THỊNH - TAE GWANG
+2026-11-24 18:08:08,219 INFO [215] Chuyên viên cao cấp Quản lý Mặt bằng và Không gian làm việc Hội sở - Ngân Hàng TMCP Quốc Tế Việt Nam
+2026-11-24 18:08:13,870 INFO [216] Chuyên viên R&D Sản phẩm BĐS Nghỉ dưỡng - CÔNG TY CỔ PHẦN TẬP ĐOÀN T&T
+2026-11-24 18:08:17,537 INFO [217] Chuyên Viên Chuyển Đổi Số - Công ty TNHH Di Đại Hưng
+2026-11-24 18:08:21,964 INFO [218] Chuyên viên Phân tích Hiệu quả Tổ chức (Chinese speaking/Logistics experience) - S.F. EXPRESS LTD.
+2026-11-24 18:08:26,193 INFO [219] Chuyên Viên Kiểm Soát Tài Chính - CÔNG TY TNHH ANH QUÂN BAKERY
+2026-11-24 18:08:31,932 INFO [220] Trưởng Phòng Tài Chính và Kế toán cấp cao - Senior Finance & Accounting Manager - CÔNG TY TNHH TRANG SỨC MHJ
+2026-11-24 18:08:35,364 INFO [221] Product Manager Dược mỹ phẩm - Công Ty TNHH Thương Mại Dịch Vụ Xuất Nhập Khẩu The Vigo
+2026-11-24 18:08:39,544 INFO [222] Chuyên Viên Kiểm Soát Giá & Kiểm Soát Tồn Kho - CÔNG TY TNHH XUẤT NHẬP KHẨU RUTOP VIỆT NAM - Thương Hiệu Toptotoes
+2026-11-24 18:08:45,450 INFO [223] Chuyên Viên Nhân Sự (phụ trách KPI/ISO/5S) - PRECIOUS PRESTIGE TRADING AND LOGISTICS
+2026-11-24 18:08:49,431 INFO [224] Product Owner - Digital Solution - Công Ty CP Chứng Khoán VNDIRECT
+2026-11-24 18:08:53,157 INFO [225] Chuyên viên Chính sách sản phẩm - Công ty TNHH Chứng khoán Ngân hàng TMCP Ngoại thương Việt Nam (VCBS - Vietcombank Securities)
+2026-11-24 18:08:57,245 INFO [power bi] trang 6: https://careerviet.vn/viec-lam/power-bi-k-trang-6-vi.html
+2026-11-24 18:08:58,187 INFO Tìm thấy 21 link tin (regex), 7 link mới
+2026-11-24 18:09:01,917 INFO [226] [Tâm Anh HCM] Chuyên Viên Cao Cấp Nguồn Vốn - BỆNH VIỆN ĐA KHOA TÂM ANH TP. HỒ CHÍ MINH
+2026-11-24 18:09:06,265 INFO [227] Kỹ sư Quản lý Chất lượng thực phẩm(Tiếp nhận sinh viên mới tốt nghiệp đợt 2) - Công ty CP Thành Thành Công - Biên Hòa
+2026-11-24 18:09:10,679 INFO [228] Chuyên viên PMO - CÔNG TY CỔ PHẦN CHỨNG KHOÁN HD
+2026-11-24 18:09:15,361 INFO [229] Customer Success Team Lead - CÔNG TY TNHH UNIOS
+2026-11-24 18:09:19,085 INFO [230] Supply Chain Planner - Công Ty Cổ Phần TEECOM
+2026-11-24 18:09:23,570 INFO [231] Supply Chain Planner - Công Ty Cổ Phần TEECOM
+2026-11-24 18:09:28,389 INFO [232] Thực tập sinh phòng Mua hàng - CÔNG TY CỔ PHẦN VUA NỆM
+2026-11-24 18:09:32,156 INFO [power bi] trang 7: https://careerviet.vn/viec-lam/power-bi-k-trang-7-vi.html
+2026-11-24 18:09:32,581 INFO Tìm thấy 0 link tin (regex), 0 link mới
+2026-11-24 18:09:32,582 INFO Hết trang hoặc regex không khớp -> sang từ khóa kế.
+2026-11-24 18:09:32,582 INFO [machine learning] trang 1: https://careerviet.vn/viec-lam/machine-learning-k-vi.html
+2026-11-24 18:09:33,741 INFO Tìm thấy 36 link tin (regex), 5 link mới
+2026-11-24 18:09:38,945 INFO [233] DỰ ÁN COREBANKING - CHUYÊN GIA AI - Ngân hàng TMCP Phát triển TP.HCM (HDBank)
+2026-11-24 18:09:44,215 INFO [234] AI Expert - Khối Công nghệ thông tin (2026TD450200) - Ngân Hàng TMCP Quân Đội
+2026-11-24 18:09:48,525 INFO [235] Giám Đốc/Trưởng phòng IT - CÔNG TY CỔ PHẦN TẬP ĐOÀN ONSEN FUJI
+2026-11-24 18:09:53,074 INFO [236] Senior AI Expert - Khối Công nghệ thông tin (2026TD450201) - Ngân Hàng TMCP Quân Đội
+2026-11-24 18:09:57,466 INFO [237] Chuyên gia triển khai chiến dịch tiếp thị và bán hàng số - RB - MSB - 1O343 - Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam (MSB)
+2026-11-24 18:10:00,670 INFO [machine learning] trang 2: https://careerviet.vn/viec-lam/machine-learning-k-trang-2-vi.html
+2026-11-24 18:10:01,194 INFO Tìm thấy 0 link tin (regex), 0 link mới
+2026-11-24 18:10:01,194 INFO Hết trang hoặc regex không khớp -> sang từ khóa kế.
+2026-11-24 18:10:01,194 INFO [etl] trang 1: https://careerviet.vn/viec-lam/etl-k-vi.html
+2026-11-24 18:10:02,234 INFO Tìm thấy 25 link tin (regex), 0 link mới
+2026-11-24 18:10:05,632 INFO [etl] trang 2: https://careerviet.vn/viec-lam/etl-k-trang-2-vi.html
+2026-11-24 18:10:06,118 INFO Tìm thấy 0 link tin (regex), 0 link mới
+2026-11-24 18:10:06,118 INFO Hết trang hoặc regex không khớp -> sang từ khóa kế.
+2026-11-24 18:10:06,118 INFO [big data] trang 1: https://careerviet.vn/viec-lam/big-data-k-vi.html
+2026-11-24 18:10:08,767 INFO Tìm thấy 27 link tin (regex), 2 link mới
+2026-11-24 18:10:13,662 INFO [238] Chuyên gia Chiến lược công nghệ - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:10:17,197 INFO [239] Nhân viên/Chuyên viên ERP (Kỹ thuật) - Công ty Cổ phần Tập đoàn Hoa Sen 
+2026-11-24 18:10:21,466 INFO [big data] trang 2: https://careerviet.vn/viec-lam/big-data-k-trang-2-vi.html
+2026-11-24 18:10:21,768 INFO Tìm thấy 0 link tin (regex), 0 link mới
+2026-11-24 18:10:21,768 INFO Hết trang hoặc regex không khớp -> sang từ khóa kế.
+2026-11-24 18:10:21,768 INFO [ai engineer] trang 1: https://careerviet.vn/viec-lam/ai-engineer-k-vi.html
+2026-11-24 18:10:23,125 INFO Tìm thấy 50 link tin (regex), 26 link mới
+2026-11-24 18:10:27,033 INFO [240] Chuyên viên Định giá tài sản tại Ninh Bình - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:10:31,888 INFO [241] Chuyên viên Định giá tài sản tại Tây Ninh - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:10:37,004 INFO [242] Chuyên viên Định giá tài sản tại Thanh Hóa - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:10:40,851 INFO [243] Chuyên viên Định giá tài sản tại Quảng Ngãi - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:10:44,696 INFO [244] Chuyên viên Định giá tài sản tại Bộ phận Ninh Bình (làm việc tại VCB Ninh Bình) - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:10:48,672 INFO [245] Chuyên viên Kiến trúc doanh nghiệp - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:10:53,776 INFO [246] Chuyên gia Kiến trúc doanh nghiệp - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:10:58,262 INFO [247] Chuyên viên RM tiếng Hàn – Bộ phận Khách hàng FDI phía Nam - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:11:03,339 INFO [248] Chuyên viên RM tiếng Trung – Bộ phận Khách hàng FDI phía Nam - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:11:06,805 INFO [249] Chuyên viên RM tiếng Anh – Bộ phận Khách hàng FDI phía Nam - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:11:10,796 INFO [250] Chuyên viên Marketing sản phẩm - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:11:14,961 INFO [251] Chuyên viên Marketing số - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:11:19,684 INFO [252] Chuyên viên Thiết kế giải pháp và quản lý kênh số - NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM (VIETCOMBANK)
+2026-11-24 18:11:24,119 INFO [253] Kỹ Sư Tự Động Hóa - Công ty Cổ Phần Thực Phẩm Dinh Dưỡng NutiFood
+2026-11-24 18:11:28,957 INFO [254] Automation Maintenance Specialist (Japanese N2 or English Toeic 700) - Công ty TNHH Olympus Việt Nam
+2026-11-24 18:11:33,758 INFO [255] Chuyên Viên R&D Điều Khiển Tự Động - Công ty TNHH MTV Sen Vàng Việt Nam
+2026-11-24 18:11:37,842 INFO [256] AI OPERATIONS SPECIALIST - Công ty TNHH Cobi One
+2026-11-24 18:11:42,521 INFO [257] Automation Engineer - CÔNG TY TNHH ENTOBEL BÀ RỊA - VŨNG TÀU
+2026-11-24 18:11:47,752 INFO [258] Kỹ Sư Vận Hành Robot - CÔNG TY CỔ PHẦN TẬP ĐOÀN CƠ KHÍ CÔNG NGHỆ CAO SIBA
+2026-11-24 18:11:51,820 INFO [259] Automation Solution Engineer - CÔNG TY CỔ PHẦN TẬP ĐOÀN DAT
+2026-11-24 18:11:57,468 INFO [260] AI Engineer - Long Thành, Đồng Nai 28944 - Công Ty TNHH Reeracoen Việt Nam
+2026-11-24 18:12:01,019 INFO [261] Nhân viên IT - CÔNG TY TNHH CANON VIỆT NAM
+2026-11-24 18:12:04,511 INFO [262] Kỹ sư Cơ khí Robot (Mechanical Engineer – Robotics) - Công ty TNHH Autonomous Việt Nam
+2026-11-24 18:12:10,342 INFO [263] KỸ SƯ TỰ ĐỘNG HÓA MÁY LẬP TRÌNH (NGÀNH MAY) - Công ty TNHH Greentech Headgear
+2026-11-24 18:12:15,964 INFO [264] Kỹ Sư Tự Động Hóa - Công ty Cổ phần Đầu tư Asia Dragon
+2026-11-24 18:12:19,622 INFO [265] KỸ SƯ TỰ ĐỘNG HÓA - CÔNG TY TNHH POUYUEN VIỆT NAM
+2026-11-24 18:12:23,655 INFO [ai engineer] trang 2: https://careerviet.vn/viec-lam/ai-engineer-k-trang-2-vi.html
+2026-11-24 18:12:24,468 INFO Tìm thấy 7 link tin (regex), 6 link mới
+2026-11-24 18:12:28,482 INFO [266] KỸ SƯ TỰ ĐỘNG HÓA - TRAN DUC CORPORATION - CÔNG TY CỔ PHẦN TRẦN ĐỨC
+2026-11-24 18:12:33,370 INFO [267] Kỹ Sư Tự Động Hóa - Công ty TNHH Anam Electronics Việt Nam
+2026-11-24 18:12:37,044 INFO [268] Kỹ sư Tự động hóa - CÔNG TY TNHH LTK VIỆT NAM
+2026-11-24 18:12:42,109 INFO [269] Automation Engineer - Bảo mật
+2026-11-24 18:12:45,579 INFO [270] Kỹ sư thiết kế máy tự động - Công ty TNHH ELENTEC HCM VINA
+2026-11-24 18:12:49,109 INFO [271] Kỹ sư ứng dụng Tự động hóa - CÔNG TY CỔ PHẦN TẬP ĐOÀN DAT
+2026-11-24 18:12:53,139 INFO [ai engineer] trang 3: https://careerviet.vn/viec-lam/ai-engineer-k-trang-3-vi.html
+2026-11-24 18:12:53,430 INFO Tìm thấy 0 link tin (regex), 0 link mới
+2026-11-24 18:12:53,430 INFO Hết trang hoặc regex không khớp -> sang từ khóa kế.
+2026-11-24 18:12:53,431 INFO Hoàn tất lượt chạy: +271 mới, 0 bỏ qua.
+2026-11-24 18:12:53,484 INFO === THỐNG KÊ raw_data.csv: 1160 dòng, 1160 URL duy nhất
+2026-11-24 18:12:53,485 INFO     Tỷ lệ có dữ liệu: Job_Title 100% | Company 100% | Location 100% | Salary 100% | Experience 95% | Description 100% | Requirements 99% | Benefits 95%
+2026-11-24 18:26:47,657 INFO Đã có 10 bản ghi trong data\test_raw.csv
+2026-11-24 18:26:47,831 INFO robots.txt cho phép /it-jobs/: True | sitemap khai báo: 1
+2026-11-24 18:26:47,832 INFO [data analyst] trang 1: https://itviec.com/it-jobs/data-analyst?page=1
+2026-11-24 18:26:47,960 ERROR Bị chặn (status=403) tại https://itviec.com/it-jobs/data-analyst?page=1 | server=cloudflare cf-mitigated=challenge | đầu trang: '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-e' -> DỪNG. Không vượt rào; hãy đợi, giảm tốc độ hoặc đổi nguồn.
+2026-11-24 18:26:47,960 INFO Hoàn tất lượt chạy: +0 mới, 0 bỏ qua.
+2026-11-24 18:26:47,961 INFO === THỐNG KÊ test_raw.csv: 10 dòng, 10 URL duy nhất
+2026-11-24 18:26:47,961 INFO     Tỷ lệ có dữ liệu: Job_Title 100% | Company 100% | Location 100% | Salary 100% | Experience 100% | Description 100% | Requirements 100% | Benefits 100%
